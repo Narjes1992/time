@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+}
+.inner-container {
+    display: inline-block;
+}
+.digits {
+    font-size: 4em;
+}
+.times{
+    display: flex;
+    justify-content: space-around;
+    color: grey;
+}
